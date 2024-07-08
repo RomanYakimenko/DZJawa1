@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        int stoimostBileta = 84785;
-        int kolichestvoMil = 20;
-        int kolichestvoBonusov = stoimostBileta / kolichestvoMil;
+        int priceTicket = 84785;
+        int Miles = 20;
+        int bonus = priceTicket / Miles;
 
-        System.out.println(kolichestvoBonusov);
+        System.out.println(bonus);
     }
 }
